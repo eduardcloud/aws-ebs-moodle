@@ -22,6 +22,7 @@ Now that you've gone through all the trouble of installing your site, you will w
 
  - [DB Instance Backups](http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Overview.BackingUpAndRestoringAmazonRDSInstances.html)
  - [Back Up an EFS File System](http://docs.aws.amazon.com/efs/latest/ug/efs-backup.html)
+ - [Back Up an EFS File System, my way](https://gist.github.com/Tulkis/75a3a0b04e35b161567301caa8d561b0)
 
 # Documentation used
 Documentation used: [Deploying a High-Availability WordPress Website with an External Amazon RDS Database to Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-hawordpress-tutorial.html).
